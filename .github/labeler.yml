@@ -1,0 +1,19 @@
+client:
+- insights/client/**/*
+combiner:
+- insights/client/**/*
+components:
+- insights/components/**/*
+core:
+- insights/core/**/*
+plugins:
+- insights/plugins/**/*
+parser:
+- insights/parsers/**/* 
+- insights/parsr/**/*   
+tests:
+- insights/tests/**/*
+documentation:
+- docs/**/*
+SPEC Change:
+- insights/specs/**/*
